@@ -10,7 +10,7 @@ Play Store app may not work correctly with this script.
 Simply copy & paste the command below.
 
 ```bash
-curl -LO https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Termux/refs/heads/dev/install_main.sh && chmod +x install_main.sh && ./install_main.sh
+curl -LO https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Termux/refs/heads/main/install_main.sh && chmod +x install_main.sh && ./install_main.sh
 ```
 
 ## Status
@@ -18,6 +18,6 @@ curl -LO https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Ter
 | Priority | Name            | Done? | Working correctly? |
 |----------|-----------------|-------|--------------------|
 | 1        | Version selection | ✅️     | ✅️                  |
-| 2        | Start script    | ❌️     |  -                 |
+| 2        | Start script    | ⚠️  (Untested)  |  ⚠️                 |
 | 3        | Updater | ❌️     |  -     |
 | 4        | Backup & Restore | ❌️    | - |
