@@ -18,6 +18,6 @@ curl -LO https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Ter
 | Priority | Name            | Done? | Working correctly? |
 |----------|-----------------|-------|--------------------|
 | 1        | Version selection | ✅️     | ✅️                  |
-| 2        | Start script    | ❌️     |  -                 |
+| 2        | Start script    | ⚠️  (Untested)  |  ⚠️                 |
 | 3        | Updater | ❌️     |  -     |
 | 4        | Backup & Restore | ❌️    | - |
