@@ -1,9 +1,5 @@
 # BedrockDedicatedServer-Termux
-Run BDS in Termux without proot-distro
-
-## Before doing anything
-Please use Termux from F-Droid or Github releases.
-Play Store app may not work correctly with this script.
+Run BDS on box64 without proot-distro
 
 ## How to use?
 
@@ -18,6 +14,6 @@ curl -LO https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Ter
 | Priority | Name            | Done? | Working correctly? |
 |----------|-----------------|-------|--------------------|
 | 1        | Version selection | ✅️     | ✅️                  |
-| 2        | Start script    | ⚠️  (Untested)  |  ⚠️                 |
+| 2        | Start script    | ❌️     |  -                 |
 | 3        | Updater | ❌️     |  -     |
 | 4        | Backup & Restore | ❌️    | - |
