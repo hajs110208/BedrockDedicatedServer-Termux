@@ -9,7 +9,7 @@ echo Starting BDS download script
 bash <(curl -sL https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Termux/refs/heads/main/downloadbds.sh)
 unzip server.zip -d server
 chmod +x $HOME/server/bedrock_server
-curl -LO https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Termux/refs/heads/dev/start.sh
+curl -LO https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Termux/refs/heads/main/start.sh
 chmod +x $HOME/start.sh
 echo "Done! Now you can start the server by typing ./start.sh"
 
