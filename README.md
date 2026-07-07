@@ -22,6 +22,6 @@ bash <(curl -sL https://raw.githubusercontent.com/hajs110208/BedrockDedicatedSer
 | Priority | Name            | Done? | Working correctly? |
 |----------|-----------------|-------|--------------------|
 | 1        | Version selection | ✅️     | ✅️                  |
-| 2        | Start script    | Working on it     |  -                 |
+| 2        | Start script    | ✅️     |  ✅️                 |
 | 3        | Updater | ❌️     |  -     |
 | 4        | Backup & Restore | ❌️    | - |
