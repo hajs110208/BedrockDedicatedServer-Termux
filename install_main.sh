@@ -1,4 +1,4 @@
-curl -LO https://raw.githubusercontent.com/hajs110208/termux-box64/refs/heads/main/install.sh && chmod +x install.sh && ./install.sh
+bash <(curl -sL https://raw.githubusercontent.com/hajs110208/termux-box64/refs/heads/main/install.sh)
 clear
 sleep 2
 echo Installing required packages
