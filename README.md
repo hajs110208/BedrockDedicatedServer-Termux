@@ -14,7 +14,7 @@ This script is on active development, so please report it to github issues if th
 Simply copy & paste the command below.
 
 ```bash
-curl -LO https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Termux/refs/heads/main/install_main.sh && chmod +x install_main.sh && ./install_main.sh
+bash <(curl -sL https://raw.githubusercontent.com/hajs110208/BedrockDedicatedServer-Termux/refs/heads/main/install_main.sh)
 ```
 
 ## Status
