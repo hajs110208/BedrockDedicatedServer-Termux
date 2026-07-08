@@ -1,5 +1,8 @@
 # BedrockDedicatedServer-Termux
 
+## IMPORTANT ANNOUNCEMENT
+Server won't start because of Minecraft service connection error in 1.26.30+ servers. I already know about this issue, and I will fix it as soon as possible.
+
 ## What is this?
 You cannot run Bedrock Dedicated Server in ARM devices, especially Android devices that use Bionic libc. Other scripts usually use box64 in proot-distro for this. But it has very high performance overhead.
 
