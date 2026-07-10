@@ -1,6 +1,8 @@
 # BedrockDedicatedServer-Termux
 
 ## IMPORTANT ANNOUNCEMENT
+box64 from termux glibc repo is kinda broken right now.
+![](images/Screenshot_20260710_195749_Termux.png)
 Server won't start because of Minecraft service connection error in 1.26.30+ servers. I already know about this issue, and I will fix it as soon as possible.
 
 ## What is this?
